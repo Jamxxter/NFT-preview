@@ -154,12 +154,13 @@ body{
     text-align: center;
     color: white;
     font-family: Outfit;
+    margin-bottom: 2rem;
 }
-#profile{
+#creator a{
     text-decoration: none;
     color: #8bacda;
     cursor: pointer;
 }
-#profile:hover{
+#creator a:hover{
     color: #a7ccff;
 }
